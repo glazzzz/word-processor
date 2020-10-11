@@ -1,4 +1,4 @@
-package org.liaonau.task.processor;
+package org.liaonau.task.processor.camel;
 
 import io.reactivex.rxjava3.core.Flowable;
 import org.apache.camel.builder.RouteBuilder;
